@@ -1,0 +1,132 @@
+{
+  "KG": {
+    "Art": [
+      [
+        "testasduuiwd",
+        "test",
+        "test",
+        [
+          "VA:Cr2.1.Ka",
+          "VA:Re7.1.Ka",
+          "VA:Cn10.1.Ka"
+        ]
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "Math": [],
+    "English": [
+      [
+        "English KG",
+        "\nEnglish KG\n",
+        "\nEnglish KG\n",
+        [
+          "VA:Cr2.1.Ka",
+          "VA:Re7.1.Ka",
+          "VA:Cn10.1.Ka"
+        ]
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        [
+          "VA:Cr2.1.Ka",
+          "VA:Re7.1.Ka"
+        ]
+      ]
+    ],
+    "Science": [],
+    "Technology": [],
+    "History": [],
+    "PE": []
+  },
+  "Grade1": {
+    "Art": [],
+    "Math": [],
+    "English": [],
+    "Science": [],
+    "Technology": [],
+    "History": [],
+    "PE": []
+  },
+  "Grade2": {
+    "Art": [],
+    "Math": [],
+    "English": [],
+    "Science": [],
+    "Technology": [],
+    "History": [],
+    "PE": []
+  },
+  "Grade3": {
+    "Art": [],
+    "Math": [],
+    "English": [],
+    "Science": [],
+    "Technology": [],
+    "History": [],
+    "PE": []
+  },
+  "Grade4": {
+    "Art": [],
+    "Math": [],
+    "English": [],
+    "Science": [],
+    "Technology": [],
+    "History": [],
+    "PE": []
+  },
+  "Grade5": {
+    "Art": [],
+    "Math": [],
+    "English": [],
+    "Science": [],
+    "Technology": [],
+    "History": [],
+    "PE": []
+  },
+  "Grade6": {
+    "Art": [],
+    "Math": [],
+    "English": [],
+    "Science": [],
+    "Technology": [],
+    "History": [],
+    "PE": []
+  },
+  "Grade7": {
+    "Art": [],
+    "Math": [],
+    "English": [],
+    "Science": [],
+    "Technology": [],
+    "History": [],
+    "PE": []
+  },
+  "Grade8": {
+    "Art": [],
+    "Math": [],
+    "English": [],
+    "Science": [],
+    "Technology": [],
+    "History": [],
+    "PE": []
+  }
+}

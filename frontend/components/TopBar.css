@@ -1,0 +1,14 @@
+/* src/components/TopBar.css */
+.topbar {
+  background-color: #1a225e;
+  color: white;
+  font-size: 0.85rem;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+}
+.topbar a {
+  color: white;
+  margin-left: 0.5rem;
+  text-decoration: none;
+}
